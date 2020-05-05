@@ -1,0 +1,17 @@
+{
+    "tables": {
+        "Companies": {
+            "tableName": "Companies",
+            "indexes": []
+        },
+        "Employees": {
+            "tableName": "Employees",
+            "indexes": []
+        },
+        "users": {
+            "tableName": "users",
+            "indexes": []
+        }
+    },
+    "revision": 2
+}
